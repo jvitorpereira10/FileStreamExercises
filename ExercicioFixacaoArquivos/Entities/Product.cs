@@ -9,14 +9,12 @@
         public Product()
         {
         }
-
         public Product(string name, double itemPrice, int itemQuantity)
         {
             Name = name;
             ItemPrice = itemPrice;
             ItemQuantity = itemQuantity;
         }
-
         public double Total()
         {
             return ItemPrice * ItemQuantity;
