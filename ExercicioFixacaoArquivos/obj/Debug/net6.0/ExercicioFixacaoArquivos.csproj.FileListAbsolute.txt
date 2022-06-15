@@ -1,0 +1,15 @@
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.exe
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.deps.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.runtimeconfig.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\refint\ExercicioFixacaoArquivos.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.genruntimeconfig.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\ExercicioFixacaoArquivos\obj\Debug\net6.0\ref\ExercicioFixacaoArquivos.dll

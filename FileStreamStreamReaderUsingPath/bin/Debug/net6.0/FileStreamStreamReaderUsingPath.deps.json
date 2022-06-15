@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileStreamStreamReaderUsingPath/1.0.0": {
+        "runtime": {
+          "FileStreamStreamReaderUsingPath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileStreamStreamReaderUsingPath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

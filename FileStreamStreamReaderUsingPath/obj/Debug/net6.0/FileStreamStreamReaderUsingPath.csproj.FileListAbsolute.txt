@@ -1,0 +1,15 @@
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\bin\Debug\net6.0\FileStreamStreamReaderUsingPath.exe
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\bin\Debug\net6.0\FileStreamStreamReaderUsingPath.deps.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\bin\Debug\net6.0\FileStreamStreamReaderUsingPath.runtimeconfig.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\bin\Debug\net6.0\FileStreamStreamReaderUsingPath.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\bin\Debug\net6.0\FileStreamStreamReaderUsingPath.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\refint\FileStreamStreamReaderUsingPath.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\FileStreamStreamReaderUsingPath.genruntimeconfig.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\FileStreamStreamReaderUsingPath\obj\Debug\net6.0\ref\FileStreamStreamReaderUsingPath.dll

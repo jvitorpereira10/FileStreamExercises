@@ -1,0 +1,15 @@
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\bin\Debug\net6.0\Using.exe
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\bin\Debug\net6.0\Using.deps.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\bin\Debug\net6.0\Using.runtimeconfig.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\bin\Debug\net6.0\Using.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\bin\Debug\net6.0\Using.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\refint\Using.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\Using.genruntimeconfig.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\FileStreamStreamReaderUsingPath\Using\obj\Debug\net6.0\ref\Using.dll
