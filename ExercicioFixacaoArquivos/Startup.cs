@@ -7,7 +7,7 @@ namespace ExercicioFixacaoArquivos
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter file full pach: ");
+            Console.Write("Enter file full path: ");
             string dirOrigin = Console.ReadLine();
 
             //string dirOrigin = @"C:\Temp\Folders\docs";
